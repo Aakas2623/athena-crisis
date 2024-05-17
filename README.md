@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[Athena Crisis](https://athenacrisis.com) is an Open Core video game developed by [Nakazawa Tech](https://nkzw.tech) and published by [Null](https://null.com). The source code in this repository is licensed under the [MIT License](./LICENSE.md) and can be used to improve Athena Crisis, build additional tools, study game development with JavaScript or create entirely new turn-based strategy games.
+[Athena Crisis](https://athenacrisis.com) is an Open Core video game created by [Nakazawa Tech](https://nkzw.tech) and published by [Null](https://null.com). The source code in this repository is licensed under the [MIT License](./LICENSE.md) and can be used to improve Athena Crisis, build additional tools, study game development with JavaScript or create entirely new turn-based strategy games.
 
 The single-player campaign, multiplayer, art, music, and content are not open source. You can try a demo at [athenacrisis.com](https://athenacrisis.com) and you can [wishlist or purchase Athena Crisis on Steam Early Access](https://store.steampowered.com/app/2456430/Athena_Crisis/) or [buy Athena Crisis directly](https://app.athenacrisis.com/checkout) to experience the full game.
 
